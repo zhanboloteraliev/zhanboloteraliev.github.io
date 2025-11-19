@@ -1,16 +1,16 @@
 export const siteConfig = {
-  name: "Ryan Fitzgerald",
-  title: "Senior Software Engineer",
-  description: "Portfolio website of Ryan Fitzgerald",
+  name: "Zhanbolot Eraliev (Zhan)",
+  title: "Software Engineer",
+  description: "Portfolio website of Zhanbolot",
   accentColor: "#1d4ed8",
   social: {
-    email: "your-email@example.com",
-    linkedin: "https://linkedin.com/in/yourprofile",
-    twitter: "https://x.com/rfitzio",
-    github: "https://github.com/RyanFitzgerald",
+    email: "ezhanbolot@gmail.com",
+    linkedin: "www.linkedin.com/in/zhanbolot-eraliev-317a28173",
+    twitter: "https://x.com/zhanbolot_erali",
+    github: "https://github.com/zhanboloteraliev",
   },
   aboutMe:
-    "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem quos asperiores nihil consequatur tempore cupiditate architecto natus commodi corrupti quas quasi facere est, dignissimos odit nam veniam sapiente ut, vitae eligendi ipsum dolor, nostrum ullam impedit! Corrupti ratione mollitia temporibus necessitatibus, consectetur reiciendis recusandae id, dolorum quaerat, vero pariatur. Ratione!",
+    "Full-Stack Software Engineer specializing in AI-driven applications. Proven experience building and deploying scalable RAG systems using Python, FastAPI, LangChain, and Pinecone. Proficient in front-end development with React and cloud deployment using AWS and Docker.",
   skills: ["Javascript", "React", "Node.js", "Python", "AWS", "Docker"],
   projects: [
     {

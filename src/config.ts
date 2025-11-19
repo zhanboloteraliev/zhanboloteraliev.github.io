@@ -18,7 +18,7 @@ export const siteConfig = {
       description:
         "Engineered a RAG-based AI system for legal Question-Answering, leveraging vector databases of the entire Kyrgyz legal code (statutes, codes, and regulations) to provide hallucination-mitigated, authoritative legal interpretations.",
       link: "https://kalys.onrender.com",
-      skills: ["RAG", "LangChain", "Pinecone", "HyDE", "Tesseract OCR"],
+      skills: ["RAG", "LangChain", "Pinecone", "HyDE", "Python", "Tesseract OCR", "JavaScript", "HTML/CSS", "TailwindCSS", "FastAPI"],
     },
     {
       name: "AI Visual Novel Creator",
@@ -32,7 +32,7 @@ export const siteConfig = {
       description:
         "Secured 1st Place at QuackHacks by developing a browser extension for Polymarket users. The tool democratizes risk analysis, transforming complex market data into accessible, actionable insights for novice traders.",
       link: "https://devpost.com/software/poly-predictor-kit",
-      skills: ["Python", "Snowflake", "GraphQL"],
+      skills: ["Python", "Snowflake", "GraphQL", "FastAPI"],
     },
   ],
   experience: [
@@ -49,7 +49,7 @@ export const siteConfig = {
     {
       company: "KurultAI R&D Club",
       title: "Mentor & Co-Founder",
-      dateRange: "Jun 2020 - Dec 2021",
+      dateRange: "Aug 2024 - Present",
       bullets: [
         "Led a 6-member team to win the Best Use of AI award at Hackathon Codeday and won 1st place at Hackathon QuackHacks",
         "Developed a curriculum on data structures and algorithms, which improved the problem-solving skills of over 30 members.",

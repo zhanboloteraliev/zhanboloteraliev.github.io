@@ -1,5 +1,5 @@
 export const siteConfig = {
-  name: "Zhanbolot Eraliev (Zhan)",
+  name: "Zhanbolot (Zhan) Eraliev",
   title: "Software Engineer",
   description: "Portfolio website of Zhanbolot",
   accentColor: "#1d4ed8",

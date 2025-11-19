@@ -5,13 +5,13 @@ export const siteConfig = {
   accentColor: "#1d4ed8",
   social: {
     email: "ezhanbolot@gmail.com",
-    linkedin: "www.linkedin.com/in/zhanbolot-eraliev-317a28173",
+    linkedin: "https://linkedin.com/in/zhanbolot-eraliev-317a28173",
     twitter: "https://x.com/zhanbolot_erali",
     github: "https://github.com/zhanboloteraliev",
   },
   aboutMe:
     "Full-Stack Software Engineer specializing in AI-driven applications. Proven experience building and deploying scalable RAG systems using Python, FastAPI, LangChain, and Pinecone. Proficient in front-end development with React and cloud deployment using AWS and Docker. <a href='/ZhanbolotEralievResume.pdf' target='_blank' style='color: #1d4ed8; font-weight: bold;'>Download my Resume</a>",
-  skills: ["Javascript", "React", "Node.js", "Python", "AWS", "Docker"],
+  skills: ["RAG", "Python", "Node.js", "AWS", "JavaScript", "Docker"],
   projects: [
     {
       name: "Kalys Bot",

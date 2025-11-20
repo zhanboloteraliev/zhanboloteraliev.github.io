@@ -1,6 +1,6 @@
 export const siteConfig = {
   name: "Zhanbolot (Zhan) Eraliev",
-  title: "Software Engineer",
+  title: "Software Engineer | Greater Seattle Area | WA",
   description: "Portfolio website of Zhanbolot",
   accentColor: "#1d4ed8",
   social: {

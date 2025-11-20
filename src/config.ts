@@ -10,7 +10,8 @@ export const siteConfig = {
     github: "https://github.com/zhanboloteraliev",
   },
   aboutMe:
-    "Full-Stack Software Engineer specializing in AI-driven applications. Proven experience building and deploying scalable RAG systems using Python, FastAPI, LangChain, and Pinecone. Proficient in front-end development with React and cloud deployment using AWS and Docker. <a href='/ZhanbolotEralievResume.pdf' target='_blank' style='color: #1d4ed8; font-weight: bold;'>Download my Resume</a>",
+    "Full-Stack Software Engineer specializing in AI-driven applications. Proven experience building and deploying scalable RAG systems using Python, FastAPI, LangChain, and Pinecone. Proficient in front-end development with React and cloud deployment using AWS and Docker.", 
+    "<a href='/ZhanbolotEralievResume.pdf' target='_blank' style='color: #1d4ed8; font-weight: bold;'>Download my Resume</a>",
   skills: ["RAG", "Python", "Node.js", "AWS", "JavaScript", "Docker"],
   projects: [
     {
